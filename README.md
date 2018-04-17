@@ -1,4 +1,4 @@
-401 JS --  Lab 26 Cowsay
+# ![CF](http://i.imgur.com/7v5ASc8.png) 26: Cowsay "React"
 ===
 
 ## Submission Instructions
