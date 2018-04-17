@@ -1,5 +1,5 @@
 # ![CF](http://i.imgur.com/7v5ASc8.png) 26: Cowsay "React"
-===
+---
 
 ## Submission Instructions
   * Work in a fork of this repository
