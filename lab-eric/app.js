@@ -11,7 +11,7 @@ class App extends React.Component {
 
   render() {
     return <div>
-            <h1>Generate Cowsay Lorem</h1>
+            <h1>The Todo list</h1>
             <ClickCounter></ClickCounter>
             <TodoList></TodoList>
           </div>
